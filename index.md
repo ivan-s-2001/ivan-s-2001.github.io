@@ -1,3 +1,8 @@
+---
+title: Иван Смирнов | Python Developer
+layout: default
+---
+
 # 👋 Иван Смирнов
 ### 🐍 Начинающий Python-разработчик
 
